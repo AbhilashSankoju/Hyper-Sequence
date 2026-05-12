@@ -7,6 +7,8 @@ As the levels increase, the sequence becomes longer and harder to remember.
 
 ---
 
+
+
 ## 🎮 Gameplay
 
 1. Press any key to start the game.
